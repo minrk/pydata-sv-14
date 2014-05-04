@@ -2,7 +2,7 @@
 
 https://github.com/minrk/pydata-sv-14
 
-Download and follow along with `ipython notebook`, or [on nbviewer](http://nbviewer.ipython.org/github/minrk/pydata-sv-14/Index.ipynb)
+Download and follow along with `ipython notebook`, or [on nbviewer](http://nbviewer.ipython.org/github/minrk/pydata-sv-14/blob/master/Index.ipynb)
 
 Min Ragan-Kelley, UC Berkeley
 
